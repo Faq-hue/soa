@@ -21,4 +21,6 @@ public class Constantes {
 
     public static final String URL_AUTHORIZATION = URL_BASE + "/authorization";
 
+    public static final String URL_VERIFY = URL_BASE + "/verify";
+
 }
